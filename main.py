@@ -10,12 +10,11 @@ from sqlCommandClass import SqlCommandClass
 from tableGui import TableGui
 
 
-
 def main():
-    #runs gui which contains db class
-    SqlCommandClass()
-    TableGui()
+  #runs gui which contains db class
+  #No need to initialize the db class
+  TableGui()
 
 
 if (__name__ == "__main__"):
-    main()
+  main()
