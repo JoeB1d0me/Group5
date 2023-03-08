@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
+Group5\__pycache__ 
 *.py[cod]
 *$py.class
 
@@ -129,8 +129,9 @@ dmypy.json
 .pyre/
 
 #replit stuff 
-.replit
-poetry.lock
-.breakpoints
-replit.nix
-pyproject.tomls
+Group5\replit.nix
+Group5\.breakpoints
+Group5\poetry.lock
+Group5\pyproject.toml
+Group5\.replit
+Group5\.replit
