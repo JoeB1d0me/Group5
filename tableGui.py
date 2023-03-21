@@ -280,8 +280,8 @@ class TableGui():
 
     self.pilotOpener.place(x=60, y=120)
     self.flightAttendantOpener.place(x=300, y=120)
-
-
+    
+    self.root.mainloop()
 # Methods for the Buttons
 
 # Flight Attendant Button Methods (Kingsley & Andy)
